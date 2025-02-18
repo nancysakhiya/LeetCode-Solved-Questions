@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0046-permutations) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Matrix
 |  |
 | ------- |
@@ -80,8 +81,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0008-string-to-integer-atoi) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
