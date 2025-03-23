@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0046-permutations) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -99,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
