@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0046-permutations) |
+| [0074-search-a-2d-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
