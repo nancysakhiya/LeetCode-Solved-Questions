@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Backtracking
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0008-string-to-integer-atoi) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
