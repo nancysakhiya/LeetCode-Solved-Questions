@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0008-string-to-integer-atoi) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
