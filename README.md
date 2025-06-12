@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
