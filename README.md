@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
