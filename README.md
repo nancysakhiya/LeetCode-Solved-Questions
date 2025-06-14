@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -263,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
