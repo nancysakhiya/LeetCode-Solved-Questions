@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
