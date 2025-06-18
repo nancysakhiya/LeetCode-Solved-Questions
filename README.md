@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
