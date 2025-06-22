@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Linked List
 |  |
 | ------- |
