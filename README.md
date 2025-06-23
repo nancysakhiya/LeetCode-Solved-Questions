@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -359,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
