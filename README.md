@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1039-find-the-town-judge) |
@@ -136,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -277,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0518-coin-change-ii) |
@@ -289,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
