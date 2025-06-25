@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
