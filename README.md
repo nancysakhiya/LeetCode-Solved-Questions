@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0046-permutations) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
