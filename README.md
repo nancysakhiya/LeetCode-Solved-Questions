@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
