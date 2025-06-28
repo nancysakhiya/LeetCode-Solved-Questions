@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
