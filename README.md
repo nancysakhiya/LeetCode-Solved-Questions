@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0079-word-search) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0072-edit-distance) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
