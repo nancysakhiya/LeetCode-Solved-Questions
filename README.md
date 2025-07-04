@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0134-gas-station) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
