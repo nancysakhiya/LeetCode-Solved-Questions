@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Database
 |  |
