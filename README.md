@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Recursion
 |  |
 | ------- |
