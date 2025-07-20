@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -611,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
