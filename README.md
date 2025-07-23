@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0883-car-fleet) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0134-gas-station) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
