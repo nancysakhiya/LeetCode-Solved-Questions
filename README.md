@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1039-find-the-town-judge) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1813-maximum-erasure-value) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
