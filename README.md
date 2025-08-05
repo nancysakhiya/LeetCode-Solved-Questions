@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
