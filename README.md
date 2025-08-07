@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Memoization
 |  |
 | ------- |
