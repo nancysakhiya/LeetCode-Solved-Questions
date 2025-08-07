@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
+| [0474-ones-and-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
