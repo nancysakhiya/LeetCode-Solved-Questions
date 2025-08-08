@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
