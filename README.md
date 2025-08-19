@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
