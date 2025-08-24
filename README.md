@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
