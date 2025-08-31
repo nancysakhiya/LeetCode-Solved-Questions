@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0312-burst-balloons) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
