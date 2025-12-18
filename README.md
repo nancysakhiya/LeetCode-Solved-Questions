@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2145-grid-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Breadth-First Search
 |  |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Trie
 |  |
