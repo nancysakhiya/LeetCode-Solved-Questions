@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1390-four-divisors](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
+| [1390-four-divisors](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
