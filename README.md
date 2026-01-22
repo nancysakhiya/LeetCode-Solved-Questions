@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3606-coupon-code-validator) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3606-coupon-code-validator) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3790-fruits-into-baskets-ii) |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -937,12 +942,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
 | ------- |
