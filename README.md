@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0883-car-fleet](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0883-car-fleet) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [1448-maximum-69-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
