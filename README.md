@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
