@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0136-single-number) |
