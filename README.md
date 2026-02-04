@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1037,4 +1038,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
