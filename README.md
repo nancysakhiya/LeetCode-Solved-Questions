@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3637-trionic-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2381-shifting-letters-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Breadth-First Search
 |  |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [3719-longest-balanced-subarray-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -984,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3791-fruits-into-baskets-iii) |
