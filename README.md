@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3713-longest-balanced-substring-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Graph
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3396-valid-word) |
 | [3606-coupon-code-validator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3606-coupon-code-validator) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Monotonic Stack
