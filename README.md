@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
