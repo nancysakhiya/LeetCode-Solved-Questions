@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
@@ -743,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -809,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
