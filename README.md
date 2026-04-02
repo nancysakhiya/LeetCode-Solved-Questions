@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3618-find-the-original-typed-string-ii) |
