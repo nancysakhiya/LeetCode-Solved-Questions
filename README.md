@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0312-burst-balloons) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1076,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -1097,4 +1101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
