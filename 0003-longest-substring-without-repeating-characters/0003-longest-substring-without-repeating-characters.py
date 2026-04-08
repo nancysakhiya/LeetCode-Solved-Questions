@@ -1,18 +1,21 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         n = len(s)
-        maxLength = 0
-        charset = set()
-        left = 0
+        hashf = [-1] * 256
+        l = 0
+        r = 0
+        maxlen = 0
 
-        for right in range(n):
-            if s[right] not in charset:
-                charset.add(s[right])
-                maxLength = max(maxLength, right - left + 1)
-            else:
-                while s[right] in charset:
-                    charset.remove(s[left])
-                    left += 1
-                charset.add(s[right])
+        while r < n:
+            if hashf[ord(s[r])] != -1:
+                if hashf[ord(s[r])] >= l:
+                    l = hashf[ord(s[r])] + 1
 
-        return maxLength
+            hashf[ord(s[r])] = r
+
+            
+            maxlen = max(maxlen, r - l + 1)
+            r += 1
+
+        return maxlen
+
