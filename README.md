@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0883-car-fleet) |
+| [0904-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0900-reordered-power-of-2](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
+| [0904-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
