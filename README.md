@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
