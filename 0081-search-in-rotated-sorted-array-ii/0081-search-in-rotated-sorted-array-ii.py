@@ -1,23 +1,30 @@
 class Solution:
-    def search(self, nums: List[int], target: int) -> bool:
-        left, right = 0, len(nums) - 1
-        while left <= right:
-            mid = left + (right - left)//2
-            if nums[mid] == target:
+    def search(self, arr: List[int], k: int) -> bool:
+        l = 0
+        r = len(arr) - 1
+        
+        while l <= r:
+            mid = l + (r - l) // 2
+            
+            if arr[mid] == k:
                 return True
-            # skip the duplicates
-            while left < mid and nums[left] == nums[mid]:
-                left += 1
-            while mid < right and nums[mid] == nums[right]:
-                right -= 1
-            if nums[left] <= nums[mid]:
-                if nums[left] <= target and target < nums[mid]:
-                    right = mid - 1
+                
+            if arr[l] == arr[mid] == arr[r]:
+                l += 1
+                r -= 1
+            
+            elif arr[l] <= arr[mid]:
+                if arr[l] <= k < arr[mid]:
+                    r = mid - 1
                 else:
-                    left = mid + 1
+                    l = mid + 1
+                    
             else:
-                if nums[mid] < target and target <= nums[right]:
-                    left = mid + 1
+                if arr[mid] < k <= arr[r]:
+                    l = mid + 1
                 else:
-                    right = mid - 1
+                    r = mid - 1
+                    
         return False
+                    
+        
