@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
+| [1901-find-a-peak-element-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
+| [1901-find-a-peak-element-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
 | [2643-row-with-maximum-ones](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2643-row-with-maximum-ones) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
