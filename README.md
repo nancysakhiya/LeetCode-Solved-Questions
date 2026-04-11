@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1039-find-the-town-judge) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
