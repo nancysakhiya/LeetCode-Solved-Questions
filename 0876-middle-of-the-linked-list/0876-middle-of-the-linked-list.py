@@ -15,7 +15,7 @@ class Solution:
             fast = fast.next.next
 
             if fast is None:
-                midd = slow
+                break
 
         return slow
 
