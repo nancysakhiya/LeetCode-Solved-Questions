@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0165-compare-version-numbers) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
