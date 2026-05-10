@@ -6,24 +6,27 @@
 #         self.right = right
 class Solution:
 
-    def allPaths(self, root: Optional[TreeNode], path, ans):
-        if root.left is None and root.right is None:
-            ans.append(path)
-            return 
-
-        if root.left:
-            self.allPaths(root.left, path + "->" + str(root.left.val), ans)
-
-        if root.right:
-            self.allPaths(root.right, path + "->" + str(root.right.val), ans)
-
+    def arrTraversal(self, node, arr, ans):
+        if not node:
+            return
+        
+        arr.append(str(node.val))
+        
+        # if leaf node
+        if not node.left and not node.right:
+            ans.append("->".join(arr))
+        
+        # recursive calls
+        self.arrTraversal(node.left, arr, ans)
+        self.arrTraversal(node.right, arr, ans)
+        
+        # backtrack
+        arr.pop()
 
     def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
-        if root is None:
-            return []
-
         ans = []
-        path = str(root.val)
-        self.allPaths(root, path, ans)
-        return ans
+        arr = []
         
+        self.arrTraversal(root, arr, ans)
+        
+        return ans
