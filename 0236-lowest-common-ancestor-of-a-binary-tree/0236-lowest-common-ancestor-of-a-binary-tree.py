@@ -6,24 +6,18 @@
 #         self.right = None
 
 class Solution:
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        if root is None:
-            return None
-
-        if root.val == p.val or root.val == q.val:
+    def lowestCommonAncestor(self, root: 'TreeNode', n1: 'TreeNode', n2: 'TreeNode') -> 'TreeNode':
+        if root is None or root == n1 or root == n2:
             return root
-
-        leftLCA = self.lowestCommonAncestor(root.left, p, q)
-        rightLCA = self.lowestCommonAncestor(root.right, p, q)
-
-        if leftLCA and rightLCA:
-            return root
-
-        elif leftLCA is not None:
-            return leftLCA
-
+            
+        left = self.lowestCommonAncestor(root.left, n1, n2)
+        right = self.lowestCommonAncestor(root.right, n1, n2)
+        
+        if left is None:
+            return right
+            
+        elif right is None:
+            return left
+            
         else:
-            return rightLCA
-
-        
-        
+            return root
