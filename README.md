@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
@@ -1071,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
