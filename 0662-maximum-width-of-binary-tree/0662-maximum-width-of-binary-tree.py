@@ -4,26 +4,33 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import deque
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return None
-        
+        if root is None:
+            return 0
+            
         q = deque([(root, 0)])
-        max_width = 0
-
+        maxWidth = 0
+        
         while q:
-            level_length = len(q)
-            _, level_start = q[0]
-
-            for i in range(level_length):
+            levelSize = len(q)
+            mini = q[0][1]
+            first = last = 0
+            
+            
+            for i in range(levelSize):
                 node, idx = q.popleft()
-
+                curr_idx = idx - mini
+                if i == 0:
+                    first = curr_idx
+                if i == levelSize - 1:
+                    last = curr_idx
                 if node.left:
-                    q.append((node.left, 2*idx))
+                    q.append((node.left, curr_idx*2 + 1))
                 if node.right:
-                    q.append((node.right, 2*idx+1))
+                    q.append((node.right, curr_idx*2 + 2))
 
-            max_width = max(max_width, idx - level_start + 1)
-
-        return max_width
+            maxWidth = max(maxWidth, last - first + 1)
+                    
+        return maxWidth
