@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0931-minimum-falling-path-sum) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0826-soup-servings) |
