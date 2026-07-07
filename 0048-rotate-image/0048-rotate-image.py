@@ -3,22 +3,11 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        l, r = 0, len(matrix) - 1
+        n = len(matrix)
 
-        while l < r:
-            for i in range(r - l):
-                t = l
-                b = r
+        for i in range(n-1):
+            for j in range(i+1, n):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
 
-                topLeft = matrix[t][l + i]
-
-                matrix[t][l + i] = matrix[b - i][l]
-
-                matrix[b - i][l] = matrix[b][r - i]
-
-                matrix[b][r - i] = matrix[t + i][r]
-
-                matrix[t + i][r] = topLeft
-
-            r -= 1
-            l += 1
+        for i in range(n):
+            matrix[i].reverse()
