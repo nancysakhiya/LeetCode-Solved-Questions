@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1463-cherry-pickup-ii) |
