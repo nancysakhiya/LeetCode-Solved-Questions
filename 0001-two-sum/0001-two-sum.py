@@ -3,7 +3,6 @@ class Solution:
         n = len(nums)
         mpp = {}
 
-        # a + b = target
         for i in range(n):
             a = nums[i]
             b = target - a
