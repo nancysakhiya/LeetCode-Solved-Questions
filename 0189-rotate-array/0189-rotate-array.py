@@ -1,24 +1,20 @@
 class Solution:
+    def reverse(self, arr, start, end):
+        while start < end:
+            arr[start], arr[end] = arr[end], arr[start]
+            start += 1
+            end -= 1
+
+        return arr
+
     def rotate(self, arr: List[int], d: int) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
         n = len(arr)
         d = d % n
-        temp = []
 
-        for i in range(n - d, n):
-            temp.append(arr[i])
+        self.reverse(arr, 0, n - 1)
+        self.reverse(arr, 0, d - 1)
+        self.reverse(arr, d, n - 1)
 
-        for i in range(n - d - 1, -1, -1):
-            arr[i + d] = arr[i]
-
-        for i in range(d):
-            arr[i] = temp[i]
-
-        return arr
-        
-        
-
-
-        
