@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2689-rearranging-fruits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3606-coupon-code-validator) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3396-valid-word) |
 | [3606-coupon-code-validator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3606-coupon-code-validator) |
