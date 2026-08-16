@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -1245,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [1392-longest-happy-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1392-longest-happy-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Concurrency
 |  |
@@ -1289,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1408-string-matching-in-an-array) |
 ## Iterator
 |  |
@@ -1299,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
+| [1392-longest-happy-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1392-longest-happy-prefix) |
 ## Geometry
 |  |
 | ------- |
@@ -1364,4 +1368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0493-reverse-pairs) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
