@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1408-string-matching-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-cherry-pickup-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1463-cherry-pickup-ii) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1408-string-matching-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -1287,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0686-repeated-string-match) |
+| [1408-string-matching-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1408-string-matching-in-an-array) |
 ## Iterator
 |  |
 | ------- |
