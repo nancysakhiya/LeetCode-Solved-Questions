@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0412-fizz-buzz) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0341-flatten-nested-list-iterator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [0394-decode-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
