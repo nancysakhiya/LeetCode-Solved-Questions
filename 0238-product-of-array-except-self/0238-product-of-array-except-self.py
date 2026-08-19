@@ -3,15 +3,13 @@ class Solution:
         n = len(nums)
         res = [1] * n
 
-        leftproduct = 1
-        for i in range(n):
-            res[i] = leftproduct
-            leftproduct *= nums[i]
+        for i in range(1, n):
+            res[i] = res[i - 1] * nums[i - 1]
 
         rightproduct = 1
-        for i in range(n - 1, -1, -1):
+        for i in range(n - 2, -1, -1):
+            rightproduct *= nums[i + 1]
             res[i] *= rightproduct
-            rightproduct *= nums[i]
             
         return res
             
