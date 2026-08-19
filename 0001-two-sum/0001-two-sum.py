@@ -8,7 +8,7 @@ class Solution:
             b = target - a
 
             if b in mpp:
-                return [mpp[b], i]
+                return (mpp[b], i)
 
             mpp[a] = i
 
