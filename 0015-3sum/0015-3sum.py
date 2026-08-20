@@ -1,18 +1,34 @@
 class Solution:
-    def threeSum(self, arr: List[int]) -> List[List[int]]:
-        # for better solution we will store values in hash set and  we will run 2 loops
-        n = len(arr)
-        st = set()
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        # for the optimal approach 
+        # 2 pointer appraoch
+        nums.sort()
+        n = len(nums)
+        ans = []
 
         for i in range(n):
-            hashset = set()
-            for j in range(i+1, n):
-                third = -(arr[i] + arr[j])
-                if third in hashset:
-                    temp = [arr[i], arr[j], third]
-                    temp.sort()
-                    st.add(tuple(temp))
-                hashset.add(arr[j])       
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
 
-        ans = list(st)
+            j = i + 1
+            k = n - 1
+
+            while j < k:
+                if nums[i] + nums[j] + nums[k] == 0:
+                    temp = [nums[i], nums[j], nums[k]]
+                    ans.append(temp)
+                    j += 1
+                    k -= 1
+
+                    while j < k and nums[j] == nums[j - 1]:
+                        j += 1
+                    while j < k and nums[k] == nums[k + 1]:
+                        k -= 1
+
+                elif nums[i] + nums[j] + nums[k] < 0:
+                    j += 1
+
+                else:
+                    k -= 1
+
         return ans
