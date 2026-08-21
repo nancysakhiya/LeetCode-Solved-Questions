@@ -5,18 +5,10 @@ class Solution:
         ans = []
 
         for i in range(n):
-            start = arr[i][0]
-            end = arr[i][1]
+            if not ans or arr[i][0] > ans[-1][1]:
+                ans.append(arr[i])
 
-            if ans and end <= ans[-1][1]:
-                continue
-
-            for j in range(i + 1, n):
-                if arr[j][0] <= end:
-                    end = max(end, arr[j][1])
-                else:
-                    break
-
-            ans.append([start, end])
+            else:
+                ans[-1][1] = max(ans[-1][1], arr[i][1])
 
         return ans
