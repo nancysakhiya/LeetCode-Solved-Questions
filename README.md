@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3637-trionic-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3713-longest-balanced-substring-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
