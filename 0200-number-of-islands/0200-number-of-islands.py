@@ -1,31 +1,38 @@
-from typing import List
 from collections import deque
-
 class Solution:
+    def bfs(self, row, col, vis, grid, delrow, delcol):
+        vis[row][col] = 1
+        q = deque()
+        q.append((row, col))
+        n = len(grid)
+        m = len(grid[0])
+
+        while q:
+            row, col = q.popleft()
+
+            for i in range(len(delrow)):
+                nrow = row + delrow[i]
+                ncol = col + delcol[i]
+
+                if nrow >= 0 and nrow < n and ncol >= 0 and ncol < m and grid[nrow][ncol] == '1' and not vis[nrow][ncol]:
+                    vis[nrow][ncol] = 1
+                    q.append((nrow, ncol))
+
+
     def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid:
-            return 0
+        # we will do bfs traversal whenever we find land
+        n = len(grid)
+        m = len(grid[0])
+        vis = [[0 for _ in range(m)] for _ in range(n)]
+        cnt = 0
 
-        R, C = len(grid), len(grid[0])
-        visited = set()
-        DIRS = [(1,0), (-1,0), (0,1), (0,-1)]
+        delrow = [-1, 0, 1, 0]
+        delcol = [0, 1, 0, -1]
 
-        def bfs(sr: int, sc: int) -> None:
-            q = deque([(sr, sc)])
-            visited.add((sr, sc))
-            while q:
-                r, c = q.popleft()
-                for dr, dc in DIRS:
-                    nr, nc = r + dr, c + dc
-                    if 0 <= nr < R and 0 <= nc < C and grid[nr][nc] == "1" and (nr, nc) not in visited:
-                        visited.add((nr, nc))
-                        q.append((nr, nc))
+        for i in range(n):
+            for j in range(m):
+                if not vis[i][j] and grid[i][j] == '1':
+                    cnt += 1
+                    self.bfs(i, j, vis, grid, delrow, delcol)
 
-        count = 0
-        for r in range(R):
-            for c in range(C):
-                if grid[r][c] == "1" and (r, c) not in visited:
-                    bfs(r, c)
-                    count += 1
-
-        return count
+        return cnt
