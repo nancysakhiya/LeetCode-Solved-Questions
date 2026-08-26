@@ -1,24 +1,31 @@
+from collections import deque
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        preMap = { i : [] for i in range(numCourses)}
-        for crs, pre in prerequisites:
-            preMap[crs].append(pre)
+    def canFinish(self, V: int, pre: List[List[int]]) -> bool:
+        adj = [[] for _ in range(V)]
+        for u, v in pre:
+            adj[u].append(v)
 
-        visitSet = set()
-        def dfs(crs):
-            if crs in visitSet:
-                return False
-            if preMap[crs] == []:
-                return True
-            
-            visitSet.add(crs)
-            for pre in preMap[crs]:
-                if not dfs(pre): return False
-            visitSet.remove(crs)
-            preMap[crs] = []
+        indegree = [0] * V
+        for i in range(V):
+            for it in adj[i]:
+                indegree[it] += 1
+
+        q = deque()
+        for i in range(V):
+            if indegree[i] == 0:
+                q.append(i)
+
+        topo = []
+        while q:
+            node = q.popleft()
+            topo.append(node)
+
+            for it in adj[node]:
+                indegree[it] -= 1
+                if indegree[it] == 0:
+                    q.append(it)
+
+        if len(topo) == V:
             return True
 
-        for crs in range(numCourses):
-            if not dfs(crs):
-                return False
-        return True
+        return False        
