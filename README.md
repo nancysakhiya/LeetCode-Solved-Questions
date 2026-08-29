@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1448-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
