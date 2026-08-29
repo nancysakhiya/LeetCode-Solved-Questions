@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
