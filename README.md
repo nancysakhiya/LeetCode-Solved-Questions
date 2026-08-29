@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0986-interval-list-intersections](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1433,4 +1435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
