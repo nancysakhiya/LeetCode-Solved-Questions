@@ -8,8 +8,8 @@ class Solution:
         res = []
 
         while i < n and j < m:
-            start = max(firstList[i][0], secondList[j][0])
-            end = min(firstList[i][1], secondList[j][1])
+            start = max(firstList[i][0], secondList[j][0]) # this gives us first commonn element
+            end = min(firstList[i][1], secondList[j][1]) # this gives us second common element
 
             if start <= end:
                 res.append([start, end])
