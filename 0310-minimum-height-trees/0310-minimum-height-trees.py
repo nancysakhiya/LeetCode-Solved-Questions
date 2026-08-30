@@ -16,11 +16,11 @@ class Solution:
             if len(adj[i]) == 1:
                 q.append(i)
 
-        remaining = n
+        noofnodeintree = n # this is the number of nodes in the tree
 
         # now we remove leaf nodes layer by layer
         # a tree can either have one center or 2 center
-        while remaining > 2:
+        while noofnodeintree > 2:
             size = len(q)
 
             for i in range(size):
@@ -32,6 +32,7 @@ class Solution:
                     if len(adj[it]) == 1:
                         q.append(it)
 
-            remaining -= size
+            # when we remove the nodes from the tree, we reduce the number of nodes from the tree
+            noofnodeintree -= size
 
         return list(q)
