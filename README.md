@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
+| [0851-loud-and-rich](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0851-loud-and-rich) |
 | [0883-car-fleet](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0883-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0907-koko-eating-bananas) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0851-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1392,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0851-loud-and-rich) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1451,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
+| [0851-loud-and-rich](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0851-loud-and-rich) |
 ## Sweep Line
 |  |
 | ------- |
