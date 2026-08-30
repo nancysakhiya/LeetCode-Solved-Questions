@@ -1,17 +1,21 @@
 class Solution:
+    def recursion(self, idx, ls, ans, arr):
+        n = len(arr)
+        if idx >= n:
+            ans.append(ls.copy())
+            return ls
+
+        ls.append(arr[idx])
+        self.recursion(idx + 1, ls, ans, arr) # take
+        ls.pop()
+        self.recursion(idx + 1, ls, ans, arr) # not take
+
     def subsets(self, nums: List[int]) -> List[List[int]]:
         # we used bit manipulation to find subsets
-        n = len(nums)
-        subset = 1 << n # this is basically 2^n. because we are iterating from 0 to subset
+        ls = []
         ans = []
 
-        for i in range(subset):
-            lis = []
-
-            for j in range(n):
-                if i & (1 << j):
-                    lis.append(nums[j])
-
-            ans.append(lis.copy())
+        self.recursion(0, ls, ans, nums)
 
         return ans
+        
