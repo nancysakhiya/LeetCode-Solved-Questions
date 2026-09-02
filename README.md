@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3791-fruits-into-baskets-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
