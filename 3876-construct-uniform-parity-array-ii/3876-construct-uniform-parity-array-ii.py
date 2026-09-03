@@ -13,7 +13,7 @@ class Solution:
 
         for i in range(n):
             if nums[i] % 2 == 0:
-                if nums[i] < minodd:
+                if nums[i] <= minodd:
                     return False
 
         return True
