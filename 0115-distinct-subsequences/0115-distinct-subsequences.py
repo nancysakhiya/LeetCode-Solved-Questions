@@ -1,14 +1,14 @@
 class Solution:
     def recursion(self, i, j, dp, s, t):
-        if j < 0:
+        if j == 0:
             return 1
-        if i < 0:
+        if i == 0:
             return 0
 
         if dp[i][j] != -1:
             return dp[i][j]
 
-        if s[i] == t[j]:
+        if s[i - 1] == t[j - 1]:
             dp[i][j] = self.recursion(i - 1, j - 1, dp, s, t) + self.recursion(i - 1, j, dp, s, t)
         else:
             dp[i][j] = self.recursion(i - 1, j, dp, s, t)
@@ -21,5 +21,5 @@ class Solution:
 
         dp = [[-1 for _ in range(m + 1)] for _ in range(n + 1)]
 
-        return self.recursion(n - 1, m - 1, dp, s, t)
+        return self.recursion(n, m, dp, s, t)
         
