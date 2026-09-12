@@ -1,20 +1,33 @@
-import heapq
+
 class Solution:
+    def recursion(self, i, j, arr, dp):
+        # base case
+        if i == len(arr):
+            return 0
+
+        if dp[i][j] != -1:
+            return dp[i][j]
+
+        # non take
+        notake = self.recursion(i + 1, j, arr, dp)
+
+        # take
+        take = 0
+        if arr[i] <= j:
+            take = arr[i] + self.recursion(i + 1, j - arr[i], arr, dp)
+
+        dp[i][j] = max(take, notake)
+
+        return dp[i][j]
+
     def lastStoneWeightII(self, stones: List[int]) -> int:
         n = len(stones)
-
         total = sum(stones)
-        target = total // 2
+        j = total // 2
 
-        dp = [False] * (target + 1)
-        dp[0] = True
+        dp = [[-1 for _ in range(j + 1)] for _ in range(n)]
 
-        for stone in stones:
-            for j in range(target, stone - 1, -1):
-                dp[j] = dp[j] or dp[j - stone]
+        best = self.recursion(0, j, stones, dp)
 
-        for j in range(target, -1, -1):
-            if dp[j]:
-                return total - 2 * j
-
-        return 0        
+        return total - 2 * best
+        
