@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1039-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -1025,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
+| [1049-last-stone-weight-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1092-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1536,4 +1538,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0986-interval-list-intersections) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
