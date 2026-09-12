@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1039-find-the-town-judge) |
+| [1046-last-stone-weight](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1046-last-stone-weight) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1046-last-stone-weight) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1631-path-with-minimum-effort](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
