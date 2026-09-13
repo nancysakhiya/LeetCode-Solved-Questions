@@ -10,20 +10,15 @@ class Solution:
                 continue
 
             diff = heights[i + 1] - heights[i]
-            # we use ladders for the biggest jump and bricks for the smaller jumps
-                
+
             heapq.heappush(heap, -diff)
             bricks -= diff
 
-            # use a ladder instead of the smallest brick usage
             if bricks < 0:
                 if ladders > 0:
                     bricks += -heapq.heappop(heap)
                     ladders -= 1
-
                 else:
                     return i
 
-        return len(heights) - 1
-
-
+        return n - 1
