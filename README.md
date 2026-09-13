@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0851-loud-and-rich) |
 | [0883-car-fleet](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0883-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
