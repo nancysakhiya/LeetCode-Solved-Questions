@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1642-furthest-building-you-can-reach) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1732-find-the-highest-altitude](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1642-furthest-building-you-can-reach](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1642-furthest-building-you-can-reach) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1833-maximum-ice-cream-bars) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1631-path-with-minimum-effort](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1642-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
