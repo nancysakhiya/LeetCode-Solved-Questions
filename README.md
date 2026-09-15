@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0500-keyboard-row) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
