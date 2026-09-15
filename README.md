@@ -1558,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -1575,4 +1576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1049-last-stone-weight-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
