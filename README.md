@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0493-reverse-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -1180,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1642-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
@@ -1195,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Simulation
 |  |
 | ------- |
