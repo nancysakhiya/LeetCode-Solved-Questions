@@ -19,4 +19,3 @@ class Solution:
                     nums[i][j] = 0
 
         return nums
-                
