@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3396-valid-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3606-coupon-code-validator) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3713-longest-balanced-substring-i) |
@@ -1221,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
