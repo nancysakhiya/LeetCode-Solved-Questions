@@ -5,15 +5,35 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
-        
-        def dfs(root, seen):
-            if root == None:
-                return False
-            complement = k - root.val
-            if complement in seen:
-                return True
-            seen.add(root.val)
-            return dfs(root.left, seen) or dfs(root.right, seen)
+    def inorder(self, node, arr):
+        if node is None:
+            return
 
-        return dfs(root, set())
+        self.inorder(node.left, arr)
+        arr.append(node.val)
+        self.inorder(node.right, arr)
+
+    def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
+        # we first create a arr of node from inoder traversal because inorder traversal gives sorted arr
+        arr = []
+        self.inorder(root, arr)
+
+        l = 0
+        r = len(arr) - 1
+
+        while l < r:
+            mid = arr[l] + arr[r]
+
+            if mid == k:
+                return True
+
+            elif mid < k:
+                l += 1
+            else:
+                r -= 1
+
+        return False
+
+
+            
+
