@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0692-top-k-frequent-words) |
+| [0856-score-of-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
 | [0883-car-fleet](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0883-car-fleet) |
 | [0901-online-stock-span](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1613,4 +1615,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
