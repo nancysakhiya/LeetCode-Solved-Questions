@@ -1585,6 +1585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1616,4 +1617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
