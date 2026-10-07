@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -1489,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1392-longest-happy-prefix) |
@@ -1579,10 +1581,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1392-longest-happy-prefix) |
 ## Quicksort
 |  |
