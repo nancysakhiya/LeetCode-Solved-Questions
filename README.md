@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1859-sorting-the-sentence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1859-sorting-the-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1859-sorting-the-sentence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1859-sorting-the-sentence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -1621,4 +1623,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
