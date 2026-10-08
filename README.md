@@ -879,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0326-power-of-three) |
@@ -1236,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
@@ -1529,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Graph Theory
 |  |
