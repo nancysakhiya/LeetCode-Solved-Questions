@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0976-largest-perimeter-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0986-interval-list-intersections](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0692-top-k-frequent-words) |
 | [0883-car-fleet](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
+| [0976-largest-perimeter-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0976-largest-perimeter-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1448-maximum-69-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0826-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
+| [0976-largest-perimeter-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1390-four-divisors) |
@@ -1614,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1651,4 +1656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [1859-sorting-the-sentence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1859-sorting-the-sentence) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
