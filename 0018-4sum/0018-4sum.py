@@ -1,30 +1,35 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
         nums.sort()
+        n = len(nums)
         res = []
-        quad = []
 
-        def kSum(k, start, target):
-            if k != 2:
-                for i in range(start, len(nums) - k + 1):
-                    if i > start and nums[i] == nums[i - 1]:
-                        continue
-                    quad.append(nums[i])
-                    kSum(k - 1, i + 1, target - nums[i])
-                    quad.pop()
-                return 
+        for i in range(n):
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
+            for j in range(i + 1, n):
+                if j > i + 1 and nums[j] == nums[j - 1]:
+                    continue
 
-            l, r = start, len(nums) - 1
-            while l < r:
-                if nums[l] + nums[r] < target:
-                    l += 1
-                elif nums[l] + nums[r] > target:
-                    r -= 1
-                else:
-                    res.append(quad + [nums[l], nums[r]])
-                    l += 1
-                    while l < r and nums[l] == nums[l - 1]:
-                        l += 1
+                k = j + 1
+                l = n - 1
 
-        kSum(4, 0, target)
+                while k < l:
+                    summ = nums[i] + nums[j] + nums[k] + nums[l]
+
+                    if summ == target:
+                        res.append([nums[i], nums[j], nums[k], nums[l]])
+                        k += 1
+                        l -= 1
+
+                        while k < l and nums[k] == nums[k - 1]:
+                            k += 1
+                        while k < l and nums[l] == nums[l + 1]:
+                            l -= 1
+
+                    elif summ < target:
+                        k += 1
+                    else:
+                        l -= 1
+
         return res
