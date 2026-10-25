@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2815-max-pair-sum-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2815-max-pair-sum-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2689-rearranging-fruits) |
 | [2815-max-pair-sum-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1226,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Trie
@@ -1238,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
