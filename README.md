@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0835-image-overlap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0851-loud-and-rich) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0692-top-k-frequent-words) |
+| [0825-friends-of-appropriate-ages](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0883-car-fleet](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [0976-largest-perimeter-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
+| [0825-friends-of-appropriate-ages](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1006,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
