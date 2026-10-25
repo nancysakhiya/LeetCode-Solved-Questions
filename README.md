@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0835-image-overlap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0851-loud-and-rich) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0709-to-lower-case) |
+| [0821-shortest-distance-to-a-character](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0848-shifting-letters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-distinct-subsequences-ii) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
