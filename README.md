@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2689-rearranging-fruits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2815-max-pair-sum-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2815-max-pair-sum-in-an-array) |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
