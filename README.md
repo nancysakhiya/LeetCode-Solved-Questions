@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0709-to-lower-case) |
 | [0848-shifting-letters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
