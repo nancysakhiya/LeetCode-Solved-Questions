@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0825-friends-of-appropriate-ages) |
+| [0832-flipping-an-image](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0851-loud-and-rich) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0825-friends-of-appropriate-ages) |
+| [0832-flipping-an-image](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0986-interval-list-intersections) |
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
@@ -1056,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0832-flipping-an-image](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1308,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
