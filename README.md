@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-coupon-code-validator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3606-coupon-code-validator) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3637-trionic-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
 |  |
 | ------- |
@@ -1649,6 +1653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting Sort
 |  |
 | ------- |
