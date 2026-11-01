@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0706-design-hashmap) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
@@ -1347,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -1409,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0706-design-hashmap) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1535,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0706-design-hashmap) |
 | [1392-longest-happy-prefix](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1392-longest-happy-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Concurrency
