@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0939-minimum-area-rectangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0939-minimum-area-rectangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1039-find-the-town-judge) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0883-car-fleet](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
+| [0939-minimum-area-rectangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0939-minimum-area-rectangle) |
 | [0976-largest-perimeter-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0826-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
+| [0939-minimum-area-rectangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0939-minimum-area-rectangle) |
 | [0976-largest-perimeter-triangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1606,6 +1610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
+| [0939-minimum-area-rectangle](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0939-minimum-area-rectangle) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
