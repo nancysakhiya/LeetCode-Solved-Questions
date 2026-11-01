@@ -935,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0264-ugly-number-ii) |
@@ -1603,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
