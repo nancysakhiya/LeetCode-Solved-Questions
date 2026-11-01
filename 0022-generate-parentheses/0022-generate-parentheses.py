@@ -1,22 +1,21 @@
 class Solution:
+    def helper(self, opencnt, closecnt, curr, n, res):
+        if len(curr) == 2 * n:
+            res.append(curr)
+            return
+
+        if opencnt < n:
+            self.helper(opencnt + 1, closecnt, curr + '(', n, res)
+
+        if closecnt < opencnt:
+            self.helper(opencnt, closecnt + 1, curr + ')', n, res)
+
+
     def generateParenthesis(self, n: int) -> List[str]:
-        stack = []
         res = []
-        
-        def backtracking(openN, closeN):
-            if openN == closeN == n:
-                res.append("".join(stack))
-                return
 
-            if openN < n:
-                stack.append("(")
-                backtracking(openN + 1, closeN)
-                stack.pop()
+        self.helper(0, 0, "", n, res)
 
-            if closeN < openN:
-                stack.append(")")
-                backtracking(openN, closeN + 1)
-                stack.pop()
-
-        backtracking(0, 0)
         return res
+
+        
