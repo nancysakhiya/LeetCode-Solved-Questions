@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2592-maximize-greatness-of-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2689-rearranging-fruits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2592-maximize-greatness-of-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2689-rearranging-fruits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2592-maximize-greatness-of-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2481-strictly-palindromic-number](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2592-maximize-greatness-of-an-array](https://github.com/nancysakhiya/LeetCode-Solved-Questions/tree/master/2592-maximize-greatness-of-an-array) |
 ## Recursion
 |  |
 | ------- |
